@@ -1,3 +1,6 @@
+This is a project for NoSQL Databases and Advanced Programming course credit from January 2026
+Projekt został stworzony na potrzeby zaliczenia kursu Nierelacyjne Bazy Danych w Styczniu 2026
+
 1. Aplikacja My Game List korzysta z:
 - python
 - streamlit
